@@ -8,7 +8,7 @@
           <mxGeometry x="300" y="60" width="306" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eDRfE9aNT0jhN1MMtnzx-3" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;HouseView.java&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;1.显示界面&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;2.接收用户的输入&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;3.调用其它类完成对房屋信息的各种操作&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#001429;align=left;" vertex="1" parent="1">
-          <mxGeometry x="230" y="170" width="306" height="80" as="geometry" />
+          <mxGeometry x="230" y="170" width="390" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
