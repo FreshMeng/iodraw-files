@@ -41,10 +41,10 @@
           <mxGeometry x="-40" y="370" width="250" height="110" as="geometry" />
         </mxCell>
         <mxCell id="klYxjOlYRyUf-fwBw3Ro-1" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;1.编写mainMenu方法，可以显示主菜单&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#FF6666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="680" y="170" width="390" height="110" as="geometry" />
+          <mxGeometry x="760" y="170" width="390" height="110" as="geometry" />
         </mxCell>
         <mxCell id="klYxjOlYRyUf-fwBw3Ro-2" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;代码实现分析&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#B266FF;align=left;" vertex="1" parent="1">
-          <mxGeometry x="722" y="10" width="306" height="80" as="geometry" />
+          <mxGeometry x="802" y="10" width="306" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
